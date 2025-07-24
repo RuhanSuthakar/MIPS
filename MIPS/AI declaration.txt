@@ -1,0 +1,6 @@
+﻿AI declaration
+
+
+1. AI was used to verify and identify bugs in code
+2. AI was used to ask function for certain part of code for understand
+3. Used generative ai[chatgpt, and deepseek]
